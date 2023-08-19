@@ -19,7 +19,7 @@ Before you begin, make sure you have the following tools installed:
 
    mkdir new-app
    cd new-app
-   ```
+
 
 2. Initialize a new npm project by running:
    
