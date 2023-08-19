@@ -17,8 +17,8 @@ Before you begin, make sure you have the following tools installed:
 1. Create a new directory for your project and navigate to it using the command line.
    
 
-   mkdir new-app
-   cd new-app
+   * mkdir new-app
+  *  cd new-app
 
 
 2. Initialize a new npm project by running:
@@ -29,7 +29,7 @@ Before you begin, make sure you have the following tools installed:
 
 3. Install React and React DOM:
    
-   bash
+
    npm install react react-dom
    
 
